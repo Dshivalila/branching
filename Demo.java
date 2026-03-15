@@ -3,5 +3,6 @@ class Demo{
     {
         System.out.println("Welcome to GitHub");
         System.out.println("This is updated line in the code");
+        System.out.println("this is in feature branch");
     }
 }
